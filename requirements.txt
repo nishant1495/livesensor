@@ -1,0 +1,3 @@
+pymongo==4.2.0 
+
+-e . #editable mode, it will trigger find_packages() in setup.py , which will automatically resolve the dependencies
